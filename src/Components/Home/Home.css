@@ -1,0 +1,16 @@
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.forecastCont {
+  width: 95%;
+  border: 1px solid #000;
+}
+.search {
+  width: 50%;
+  height: auto;
+  font-size: 15px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
